@@ -1,7 +1,7 @@
 Lawtext: Manageable plain text format and utility tools for laws
 ========================================================================
 
-## 法令を読む / Browsing laws
+## 法令を読まない / Browsing laws
 
 [試してみる / Try it](https://yamachig.github.io/lawtext-app/#/v1:405AC0000000088)
 
